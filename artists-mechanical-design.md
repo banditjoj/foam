@@ -1,2 +1,0 @@
-# Artists Mechanical Design
-
