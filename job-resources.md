@@ -5,13 +5,13 @@
 [Work with Indies Art Job Listings](https://www.workwithindies.com/?categories=art-animation)
 
 Twitter Search Terms
->[looking concept artists](https://twitter.com/search?f=tweets&vertical=default&q=looking%20concept%20artists&src=typd)
+- [looking concept artists](https://twitter.com/search?f=tweets&vertical=default&q=looking%20concept%20artists&src=typd)
 
->[hiring concept artists](https://twitter.com/search?f=tweets&q=hiring%20concept%20artists&src=typd)
+- [hiring concept artists](https://twitter.com/search?f=tweets&q=hiring%20concept%20artists&src=typd)
 
->[concept artists paid](https://twitter.com/search?f=tweets&vertical=default&q=concept%20artist%20paid&src=typd)
+- [concept artists paid](https://twitter.com/search?f=tweets&vertical=default&q=concept%20artist%20paid&src=typd)
 
->[looking illustrators](https://twitter.com/search?f=tweets&q=looking%20illustrators&src=typd)
+- [looking illustrators](https://twitter.com/search?f=tweets&q=looking%20illustrators&src=typd)
 
 [Paper Cat Press - updates every Friday](https://papercatpress.com/)
 

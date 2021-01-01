@@ -1,30 +1,28 @@
 # To Do
 
-## 🌶️ spicy
+# 🌶️ spicy
 
 - [ ] import note system to here
-  - [ ] email
+  - [x] email
   - [ ] bookmarks
   - [ ] organize harddrive
   - [ ] google drive
 
-<br />
+<br/>
 
-
-## 🍍 sweet
+# 🍍 sweet
 
 - [ ] setup hydrus network tags
-    - [ ] organize references
-      - [ ] 4insp folder
-      - [ ] my photos
-      - [ ] cell phone photos
-      - [ ] ipad photos
-    - [ ] check linked notes to get images
+  - [ ] organize references
+    - [ ] 4insp folder
+    - [ ] my photos
+    - [ ] cell phone photos
+    - [ ] ipad photos
 - [ ] [[projects]]
 
 <br/>
 
-## 🥑 mild
+# 🥑 mild
 
 - [ ] make a birthday calendar
 - [ ] update [[intagram-hashtags]]
