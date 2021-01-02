@@ -2,6 +2,8 @@
 
 [julia wang](https://www.flickr.com/photos/juliawawawa/)
 
+https://unsplash.com/@juanrojas
+
 https://www.behance.net/ericvannynatten
 
 #cinematography #photography
@@ -17,7 +19,6 @@ https://mobile.twitter.com/norizci/status/1212999621389082627
 [Window Swap](https://window-swap.com/)
 - shows a random view of someone's window
 
-[Hi-Res Pokemon Art](https://hirespokemon.tumblr.com/)
 
 
 [horikwawataru (NSFW)](https://twitter.com/HORIKWAWATARU/media)
@@ -35,3 +36,6 @@ Ryoji Arai
 
 https://twitter.com/pelcron
 #story #characters
+
+https://m.post.naver.com/viewer/postView.nhn?volumeNo=28467398&memberNo=44834478
+pictures of model as baseball player

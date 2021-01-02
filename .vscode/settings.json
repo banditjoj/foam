@@ -3,6 +3,7 @@
   "editor.wrappingIndent": "indent",
   "editor.overviewRulerBorder": false,
   "editor.lineHeight": 24,
+  "editor.acceptSuggestionOnEnter": "off",
   "workbench.colorTheme": "Atom One Dark",
   "[markdown]": {
     "editor.quickSuggestions": true
