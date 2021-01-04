@@ -1,6 +1,5 @@
 # Projects
 
-- CoastCard
 - pixel art + music
 - 30 min mapcrunch studies
 - masked animals

@@ -2,6 +2,7 @@
 
 # Projects
 
+- 30 min mapcrunch studies
 - comic about female stalking a female streamer
 
 <br/>
